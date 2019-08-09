@@ -14611,6 +14611,7 @@ _ Jay Kim
 - [Pawan Yadav](https://github.com/pawanraocse)
 - [Travis Appel](https://github.com/tlappel)
 - [Biplab Mazumder](https://github.com/biplab-ca)
+- [Clint M.](https://github.com/cbm888)
 - [Savish Bedi](https://github.com/savish28)
 - [Steve Ctzbee](https://github.com/ctzbee)
 - [Kenny Santiago](https://github.com/cialespr)
@@ -15304,4 +15305,4 @@ _ Jay Kim
 - [Shreevatsa N](https://github.com/vatsa287)
 - [Schnell Theo](https://github.com/Elsasser67)
 - [Kirk Lennon](https://github.com/kirklennon)
-- [Phil H.](https://github.com/kungfuphil)
+- [Phil H.](https://github.com/kungfuphil
